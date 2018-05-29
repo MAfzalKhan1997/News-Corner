@@ -1,0 +1,36 @@
+{
+    "name": "News Corner",
+    "short_name": "News",
+    "icons": [
+        {
+            "src": "icons/appicon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/appicon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/appicon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/appicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/appicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "News1/index.html",
+    "gcm_sender_id": "103953800507",
+    "display": "standalone",
+    "background_color": "#388e3c",
+    "theme_color": "#388e3c"
+}
